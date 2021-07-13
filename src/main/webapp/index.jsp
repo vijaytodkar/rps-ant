@@ -6,9 +6,9 @@
    <body>
 
       Which one will it be for you today?<br/>
-      <a href="#" onclick="playRoshambo('rock')"> rock!! </a>
-      <a href="#" onclick="playRoshambo('paper')"> paper!! </a>
-      <a href="#" onclick="playRoshambo('scissors')"> scissors!! </a>
+      <a href="#" onclick="playRoshambo('rock')"> I like rock!! </a>
+      <a href="#" onclick="playRoshambo('paper')"> I like paper!! </a>
+      <a href="#" onclick="playRoshambo('scissors')">I like scissors!! </a>
 
       <br/>
       <div id="results"></div>
