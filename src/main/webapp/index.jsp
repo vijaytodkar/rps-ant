@@ -5,7 +5,7 @@
 
    <body>
 
-      Which one will it be for you today?<br/>
+      Which  sq one will it be for you today?<br/>
       <a href="#" onclick="playRoshambo('rock')"> I like rock!! </a>
       <a href="#" onclick="playRoshambo('paper')"> I like paper!! </a>
       <a href="#" onclick="playRoshambo('scissors')">I like scissors!! </a>
